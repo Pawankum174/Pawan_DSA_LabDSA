@@ -20,7 +20,7 @@ public class FindSumPair {
 	
         FindSumPair findSumPair=new FindSumPair();
 		//pass tree as parameter
-		findSumPair.findPairWithSum(root,140);
+		findSumPair.findPairWithSum(root,130);
 	}
 	public void findPairWithSum(Node root,int sum) {
 		Set<Integer> set=new HashSet<>();
